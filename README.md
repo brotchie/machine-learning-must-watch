@@ -3,6 +3,9 @@
 ## 2015
 1. [Sergey Levine: **Deep Learning for Decision Making and Control**](https://www.youtube.com/watch?v=EtMyH_--vnU) [56:02]
 
+## 2014
+1. [Yann LeCun: **The Unreasonable Effectiveness of Deep Learning**](https://www.youtube.com/watch?v=sc-KbuZqGkI) [1:07:23]
+
 ## 2013
 1. [Geoff Hinton: **Recent Developments in Deep Learning**](https://www.youtube.com/watch?v=vShMxxqtDDs) [1:05:17]
 
